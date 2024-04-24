@@ -1,0 +1,15 @@
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\LINQ-запросы Animal\bin\Debug\LINQ-запросы Animal.exe.config
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\LINQ-запросы Animal\bin\Debug\LINQ-запросы Animal.exe
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\LINQ-запросы Animal\bin\Debug\LINQ-запросы Animal.pdb
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\LINQ-запросы Animal\obj\Debug\LINQ-запросы Animal.csproj.AssemblyReference.cache
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\LINQ-запросы Animal\obj\Debug\MainWindow.g.cs
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\LINQ-запросы Animal\obj\Debug\App.g.cs
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\LINQ-запросы Animal\obj\Debug\LINQ-запросы Animal_MarkupCompile.cache
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\LINQ-запросы Animal\obj\Debug\LINQ-запросы Animal_MarkupCompile.lref
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\LINQ-запросы Animal\obj\Debug\MainWindow.baml
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\LINQ-запросы Animal\obj\Debug\LINQ-запросы Animal.g.resources
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\LINQ-запросы Animal\obj\Debug\LINQ_запросы_Animal.Properties.Resources.resources
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\LINQ-запросы Animal\obj\Debug\LINQ-запросы Animal.csproj.GenerateResource.cache
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\LINQ-запросы Animal\obj\Debug\LINQ-запросы Animal.csproj.CoreCompileInputs.cache
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\LINQ-запросы Animal\obj\Debug\LINQ-запросы Animal.exe
+D:\Ну типа\3 курс\Лапухина\МДК 11.01\LINQ-запросы Animal\obj\Debug\LINQ-запросы Animal.pdb
